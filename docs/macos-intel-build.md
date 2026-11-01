@@ -9,6 +9,9 @@ This fork contains a validated macOS Intel build of OpenBot `0.58.0` from source
 - DMG SHA-256: `c7ba1d771bf5b968f66e7d535e68807d7532271872204342b6e13986417bf19c`
 - Package verification: `bun run verify:package`
 
+Download: [OpenBot-0.58.0-x64.dmg](https://github.com/innovationhenrick/openbot/releases/download/macos-intel-0.58.0/OpenBot-0.58.0-x64.dmg)
+from the [macOS Intel release](https://github.com/innovationhenrick/openbot/releases/tag/macos-intel-0.58.0).
+
 The DMG is distributed as a GitHub Release asset rather than committed to Git because it is
 approximately 319 MB. This local build is ad-hoc signed and is not notarized with an Apple
 Developer ID certificate.
